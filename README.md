@@ -10,7 +10,7 @@ The calculator implements the operations of:
 - multiplication
 - division
 - exponentiation
-- taking the root
+- root (of a number) 
 
 ## Example of execution
  
